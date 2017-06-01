@@ -1,0 +1,15 @@
+{
+	"description": "CodeIgniter 3.1.0 with ORM and Twig",
+	"type": "project",
+    "require": {
+        "php": ">=5.2.4",
+        "filp/whoops": "2.*"
+    },
+    "minimum-stability": "dev",
+        "prefer-stable": true,
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.2-dev"
+        }
+    }
+}
